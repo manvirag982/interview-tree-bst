@@ -1,5 +1,5 @@
 
-// o(n)  for O(h) see gfg
+// o(n)  for O(h) see leetcode
 /**
  * Definition for binary tree
  * struct TreeNode {
