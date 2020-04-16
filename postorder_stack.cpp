@@ -1,3 +1,5 @@
+/* write postorder and see from reverse
+
 class Solution {
     public:
         vector<int> postorderTraversal(TreeNode *root) {
