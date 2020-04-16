@@ -1,3 +1,5 @@
+
+// o(n)  for O(h) see gfg
 /**
  * Definition for binary tree
  * struct TreeNode {
