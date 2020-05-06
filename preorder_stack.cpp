@@ -7,6 +7,7 @@
  *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
  * };
  */
+//O(N) space complexity
 vector<int> Solution::preorderTraversal(TreeNode* A) {
  
      vector<int> res;
